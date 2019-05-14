@@ -28,4 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Team
 
-[Ahmad Syifaur Romli](https://github.com/ahmadSyifaur) | [Alfalah Anugara](https://github.com/AlfalahAnugara) | [Dzikri Alif A.](https://github.com/dzikrialifa) | [Khosy Akmal Romadlan](https://github.com/KhosyAkmal) | [M. Fauzan Arramadhan](https://github.com/FauzanAr) | [M. Faiq Allam](https://github.com/kaboel) | [Rivo Fausta Valiano](https://github.com/rivofaustav)  
+[Ahmad Syifaur Romli](https://github.com/ahmadSyifaur) | [Alfalah Anugara](https://github.com/AlfalahAnugara) | [Dzikri Alif A.](https://github.com/dzikrialifa) | [Khosy Akmal Romadlan](https://github.com/KhosyAkmal) | 
+[M. Fauzan Arramadhan](https://github.com/FauzanAr) | [M. Faiq Allam](https://github.com/kaboel) | [Rivo Fausta Valiano](https://github.com/rivofaustav)  
